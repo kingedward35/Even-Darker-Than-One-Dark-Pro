@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="darker-than-one-dark-pro" Version="0.3.0" Publisher="higorLoren"/>
-    <DisplayName>Darker than One Dark Pro</DisplayName>
+    <Identity Language="en-US" Id="even-darker-than-one-dark-pro" Version="0.3.0" Publisher="higorLoren"/>
+    <DisplayName>Even Darker than One Dark Pro</DisplayName>
     <Description xml:space="preserve">A dark theme inspired by the One Dark Pro Vivid, good bye blue.</Description>
     <Tags>higor loren,one dark,onedark,darker,darker one dark,theme,atom,color-theme</Tags>
     <Categories>Themes</Categories>
@@ -14,10 +14,10 @@
       <Property Id="Microsoft.VisualStudio.Code.ExtensionPack" Value="" />
       <Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
       
-        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/HigorLoren/darker-than-one-dark-pro.git" />
-        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/HigorLoren/darker-than-one-dark-pro.git" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/kingedward35/even-darker-than-one-dark-pro.git" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/kingedward35/even-darker-than-one-dark-pro.git" />
         
-          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/HigorLoren/darker-than-one-dark-pro.git" />
+          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/kingedward35/even-darker-than-one-dark-pro.git" />
         
       
       
