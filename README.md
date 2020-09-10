@@ -6,4 +6,4 @@ A dark theme inspired by the [One Dark Pro Vivid](https://marketplace.visualstud
 
 ## Screenshots
 
-![Normal Theme](https://github.com/kingedward35/darker-than-one-dark-pro/blob/master/assets/normal.png?raw=true)
+![Normal Theme](https://github.com/kingedward35/Even-Darker-Than-One-Dark-Pro/blob/master/assets/normal.png?raw=true)
