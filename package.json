@@ -39,9 +39,9 @@
 		"type": "git",
 		"url": "https://github.com/kingedward35/even-darker-than-one-dark-pro.git"
 	},
-	//"__metadata": {
-	//	"id": "c361a2e9-b479-46a6-9099-8cf1214e5bc9",
-	//	"publisherId": "b4341b6e-99cb-4ca2-b9b0-d2d4d7770c1e",
-	//	"publisherDisplayName": "higorLoren"
-	//}
+	"__metadata": {
+		"id": "c361a2e9-b479-46a6-9099-8cf1214e5bc9",
+		"publisherId": "b4341b6e-99cb-4ca2-b9b0-d2d4d7770c1e",
+		"publisherDisplayName": "kingedward35"
+	}
 }
